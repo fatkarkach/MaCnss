@@ -8,8 +8,8 @@ public class Fatma_send_mail_active_account {
     public static void go(String toEmail, String code_active) throws MessagingException, IOException {
         //authentication info
 
-        final String username = "irate.2022@gmail.com";
-        final String password = "bkkughguawktuxqi";
+        final String username = "";
+        final String password = "";
 
         String host = "smtp.gmail.com";
 
